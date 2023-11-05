@@ -1,2 +1,5 @@
 # Data-Wrangling
- Handle missing values Correct data format Standardize and normalize data
+-Base on a dummy "Automobile Dataset"
+ Handling missing values 
+ Correcting data format 
+ Standardization and normalization of data
